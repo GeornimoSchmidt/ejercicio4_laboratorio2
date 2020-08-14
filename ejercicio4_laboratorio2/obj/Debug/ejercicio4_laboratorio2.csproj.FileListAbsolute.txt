@@ -1,0 +1,6 @@
+C:\Users\geros\source\repos\ejercicio4_laboratorio2\ejercicio4_laboratorio2\obj\Debug\ejercicio4_laboratorio2.csproj.CoreCompileInputs.cache
+C:\Users\geros\source\repos\ejercicio4_laboratorio2\ejercicio4_laboratorio2\bin\Debug\ejercicio4_laboratorio2.exe.config
+C:\Users\geros\source\repos\ejercicio4_laboratorio2\ejercicio4_laboratorio2\bin\Debug\ejercicio4_laboratorio2.exe
+C:\Users\geros\source\repos\ejercicio4_laboratorio2\ejercicio4_laboratorio2\bin\Debug\ejercicio4_laboratorio2.pdb
+C:\Users\geros\source\repos\ejercicio4_laboratorio2\ejercicio4_laboratorio2\obj\Debug\ejercicio4_laboratorio2.exe
+C:\Users\geros\source\repos\ejercicio4_laboratorio2\ejercicio4_laboratorio2\obj\Debug\ejercicio4_laboratorio2.pdb
